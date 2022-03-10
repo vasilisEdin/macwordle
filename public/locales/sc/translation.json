@@ -1,0 +1,53 @@
+{
+    "about": "Anent this speil",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "No eneuch letters",
+    "wordNotFound": "Wird no fund",
+    "solution": "The wird wis {{solution}}",
+    "gameCopied": "Game copied to clipboard",
+    "howToPlay": "Hou tae play",
+    "instructions": "Guess the wird in {{tries}} goes. Efter each go, the colour o the letters will change tae show hou close yer guess wis tae the wird.",
+    "pickYourLanguage": "Choose a language",
+    "correctSpotInstructions": "The letter A is in the wird and in that spot.",
+    "wrongSpotInstructions": "The letter N is in the wird but no in that spot.",
+    "notInWordInstructions": "The letter C is no in the word at aa.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Nummers",
+    "totalTries": "Goes so far",
+    "successRate": "Win %",
+    "currentStreak": "Current streak",
+    "bestStreak": "Best streak",
+    "newWordCountdown": "New wird in",
+    "share": "Share",
+    "firstExampleWord": [
+        "A",
+        "B",
+        "L",
+        "E",
+        "S"
+    ],
+    "secondExampleWord": [
+        "C",
+        "U",
+        "N",
+        "D",
+        "Y"
+    ],
+    "thirdExampleWord": [
+        "S",
+        "N",
+        "E",
+        "C",
+        "K"
+    ],
+    "aboutAuthorSentence": "This is an open source clone o the speil Wordle adapted tae Scots by Dictionars o the Scots Leid in collaboration wi <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check oot <1>the original code</1> by <3>Hannah Park</3> or hae a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The wirds for this speil were sourced fae <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+				"sc": "Scots",
+        "en": "English",
+        "es": "Español"
+    }
+}
